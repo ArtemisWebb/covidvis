@@ -1,5 +1,5 @@
 # covidvis
-A set of visualisations for coronavirus data, using the altair libraries. 
+A set of visualisations for coronavirus data, using the altair libraries. Packaged in a jupyter notebook.
 
 The data used is from this link: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/data
 
